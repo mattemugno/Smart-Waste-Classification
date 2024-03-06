@@ -7,7 +7,7 @@ This project was undertaken as part of the AIDE course at the University of Pisa
     - **Residual Modules**: These modules facilitated better gradient flow and enabled the training of deeper networks.
     - **Inception Modules**: We explored the benefits of multi-scale feature extraction using these modules.
 3. **Pretrained Models Evaluation**:
-  - We rigorously tested three pretrained models:
+We rigorously tested three pretrained models:
     - **MobileNetV2**
     - **ResNet50V2**
     - **VGG16**
