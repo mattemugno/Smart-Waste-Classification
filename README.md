@@ -11,4 +11,5 @@ We rigorously tested three pretrained models:
     - **MobileNetV2**
     - **ResNet50V2**
     - **VGG16**
+
 Our comprehensive analysis and experimentation contribute to the field of computational intelligence and deep learning. The code and detailed results can be found in this repository.
