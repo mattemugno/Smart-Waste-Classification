@@ -3,9 +3,9 @@ This project was undertaken as part of the AIDE course at the University of Pisa
 
 1. **Model Construction**: We meticulously built multiple models from scratch, carefully considering their complexity and architecture.
 2. **Techniques Employed**:
-  - **Depthwise Separable Convolution**: We leveraged this technique to enhance model efficiency and reduce computational overhead.
-  - **Residual Modules**: These modules facilitated better gradient flow and enabled the training of deeper networks.
-  - **Inception Modules**: We explored the benefits of multi-scale feature extraction using these modules.
+    - **Depthwise Separable Convolution**: We leveraged this technique to enhance model efficiency and reduce computational overhead.
+    - **Residual Modules**: These modules facilitated better gradient flow and enabled the training of deeper networks.
+    - **Inception Modules**: We explored the benefits of multi-scale feature extraction using these modules.
 3. **Pretrained Models Evaluation**:
   - We rigorously tested three pretrained models:
     - **MobileNetV2**
